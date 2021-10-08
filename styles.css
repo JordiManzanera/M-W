@@ -1,0 +1,46 @@
+body {
+  border: thick dotted purple;
+  margin: 4em;
+  padding: 2em;
+  border-radius: 5em;
+}
+
+
+
+#MainBanner {
+  border: thin solid black;
+  background-color: #a2a2a2;
+}
+
+#MainBanner h1 {
+  color: #ffa4e3;
+  padding-left: 4em;
+}
+
+#MainBanner > *{
+  border: thin solid black;
+  background-color: #f7b139;
+  margin: 1em;
+  padding-left: 1em;
+}
+
+#MainBanner a {
+  float: right;
+}
+
+
+.pred {
+  background-color: red;
+  color: rgb(145, 52, 104);
+  color: #1b9592;
+
+}
+
+.colorazul {
+  font-size: 1em;
+  color: red;
+  border: thin solid purple;
+  padding: 1em;
+  margin: 2em;
+  border-radius: 2em;
+}
